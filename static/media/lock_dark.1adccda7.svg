@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="19px" viewBox="0 0 16 19" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 10</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.699999988">
+        <g id="浅色-V3-添加流动性-单边锁定" transform="translate(-652.000000, -464.000000)">
+            <g id="编组-2" transform="translate(400.000000, 412.000000)">
+                <g id="编组-10" transform="translate(252.000000, 53.000000)">
+                    <rect id="矩形" stroke="#333333" stroke-width="2" x="1" y="7" width="14" height="10" rx="4"></rect>
+                    <path d="M13,0 L13,2 C13,4.76142375 10.7614237,7 8,7 C5.23857625,7 3,4.76142375 3,2 L3,0" id="路径" stroke="#333333" stroke-width="2" transform="translate(8.000000, 3.500000) scale(1, -1) translate(-8.000000, -3.500000) "></path>
+                    <rect id="矩形" fill="#333333" x="7" y="10" width="2" height="4" rx="1"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

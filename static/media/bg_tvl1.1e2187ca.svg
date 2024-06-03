@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="64px" viewBox="0 0 283 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>曲线1</title>
+    <defs>
+        <linearGradient x1="50%" y1="2.6887907%" x2="50%" y2="91.698639%" id="linearGradient-1">
+            <stop stop-color="#8C51FF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#8C51FF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-361.000000, -841.000000)">
+            <g id="数据区" transform="translate(360.000000, 745.000000)">
+                <g id="编组-14" transform="translate(0.000000, 96.000000)">
+                    <path d="M0,39.2670933 L33.5673565,28.499956 L52.1612773,33.8835247 L90.6236175,18.3360216 L127.578189,25.7523771 L143.482759,17.4535927 L189.5,26.2400321 L224.885022,17.5375907 L247.655172,23.4179888 L285,3.01639344 L285,54 C285,59.5228475 280.522847,64 275,64 L10,64 C4.4771525,64 6.76353751e-16,59.5228475 0,54 L0,39.2670933 L0,39.2670933 Z" id="路径-3" fill="url(#linearGradient-1)"></path>
+                    <polyline id="路径" stroke="#8C51FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="2.10118381e-15 38.719359 33.5673565 27.7727695 52.1612773 33.2460643 90.6236175 17.6088351 127.578189 25.1149167 143.482759 16.6778193 189.5 25.7523771 224.885022 16.7123975 247.655172 22.6908023 285 2"></polyline>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

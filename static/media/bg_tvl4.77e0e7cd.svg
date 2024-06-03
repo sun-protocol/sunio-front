@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="64px" viewBox="0 0 283 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>曲线4</title>
+    <defs>
+        <linearGradient x1="50%" y1="2.6887907%" x2="50%" y2="91.698639%" id="linearGradient-1">
+            <stop stop-color="#8C51FF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#8C51FF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-1276.000000, -841.000000)">
+            <g id="数据区" transform="translate(360.000000, 745.000000)">
+                <g id="矿池质押" transform="translate(915.000000, 0.000000)">
+                    <g id="编组-18" transform="translate(0.000000, 96.000000)">
+                        <path d="M0,43.7384753 L33.7011719,16.6305072 L75.5332031,28.3188575 L107.414063,18.1328606 L148.689453,33.1021442 L174.324219,18.1328606 L209.420547,13.2806063 L235.295419,28.296795 L264.759766,20.0928991 L285,2 L285,54 C285,59.5228475 280.522847,64 275,64 L10,64 C4.4771525,64 6.76353751e-16,59.5228475 0,54 L0,43.7384753 L0,43.7384753 Z" id="路径-3" fill="url(#linearGradient-1)"></path>
+                        <polyline id="路径" stroke="#8C51FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="2.24950267e-14 43.7384753 33.7011719 16.6305072 75.5332031 28.3188575 107.414063 18.1328606 148.689453 33.1021442 174.324219 18.1328606 209.420547 13.2806063 235.295419 28.296795 264.759766 20.0928991 285 2"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

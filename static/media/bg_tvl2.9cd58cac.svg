@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="283px" height="64px" viewBox="0 0 283 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>曲线2</title>
+    <defs>
+        <linearGradient x1="50%" y1="2.6887907%" x2="50%" y2="91.698639%" id="linearGradient-1">
+            <stop stop-color="#8C51FF" stop-opacity="0.6" offset="0%"></stop>
+            <stop stop-color="#8C51FF" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-666.000000, -841.000000)">
+            <g id="数据区" transform="translate(360.000000, 745.000000)">
+                <g id="稳定币池" transform="translate(305.000000, 0.000000)">
+                    <g id="编组-15" transform="translate(0.000000, 96.000000)">
+                        <path d="M0,44.734142 L34.7359662,48.1554298 L73.5294663,32.4293752 L103.127028,37.9615578 L128.030949,32.4293752 L158.711593,14.2586859 L197.534483,35.4427195 L222.013505,29.3202118 L243.572936,32.4293752 L285,2 L285,54 C285,59.5228475 280.522847,64 275,64 L10,64 C4.4771525,64 6.76353751e-16,59.5228475 0,54 L0,44.734142 L0,44.734142 Z" id="路径-3" fill="url(#linearGradient-1)"></path>
+                        <polyline id="路径" stroke="#8C51FF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" points="0 44.734142 0 44.734142 34.7359662 48.1554298 73.5294663 32.4293752 103.127028 37.9615578 128.030949 32.4293752 158.711593 14.2586859 197.534483 35.4427195 222.013505 29.3202118 243.572936 32.4293752 285 2"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

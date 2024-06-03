@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="23px" viewBox="0 0 22 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>空投</title>
+    <defs>
+        <rect id="path-1" x="3" y="13" width="16" height="9" rx="2"></rect>
+        <filter x="-25.0%" y="-66.7%" width="150.0%" height="188.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="-2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多-未连接钱包" transform="translate(-39.000000, -479.000000)">
+            <g id="编组-8备份" transform="translate(39.000000, 479.839746)">
+                <g id="形状结合-2" transform="translate(2.000000, 0.160254)" fill="#8B5AEA">
+                    <path d="M9,0 C14.5169043,0 17.5091124,3.01912731 17.9766245,9.05738193 L18,9.39594661 L17.983,9.395 L13.4682936,14.3478868 C13.7983095,14.7045347 14,15.1816548 14,15.7058824 L14,16.7058824 C14,17.8104519 13.1045695,18.7058824 12,18.7058824 L6,18.7058824 C4.8954305,18.7058824 4,17.8104519 4,16.7058824 L4,15.7058824 C4,15.1836238 4.20017828,14.7081193 4.52799338,14.3519105 L0.01,9.395 L0,9.39594661 L3.23385763e-12,9.38422683 C0.384804984,3.12794007 3.384558,0 9,0 Z M6.89538776,7.68759268 C5.98798899,7.68759268 5.42104792,8.19202014 5.19456454,9.20087506 L5.167,9.338 L7.01679944,13.0176582 L6.41070791,13.6216526 L4.286,9.395 C4.06076951,8.32403827 3.54624653,7.75655738 2.74214536,7.69350394 L2.58798289,7.68759268 C1.75457213,7.68759268 1.19639543,8.18378473 0.913452779,9.17616882 L5.10096718,13.7695497 L4.97192715,13.9899929 C5.27235489,13.8096047 5.62406463,13.7058824 6,13.7058824 L8.582,13.705 L8.582,9.395 C8.43080179,8.32403827 7.92421412,7.75655738 7.06134992,7.69350394 L6.89538776,7.68759268 Z M15.4714802,7.68759268 C14.5611096,7.68759268 14.0052031,8.19202014 13.8037607,9.20087506 L13.7701442,9.39594661 L13.762,9.395 L11.6380243,13.6216526 L11.0319328,13.0176582 L12.881091,9.33770287 C12.7225466,8.23762941 12.1581534,7.68759268 11.1879112,7.68759268 C10.2587659,7.68759268 9.69151144,8.19202014 9.48614775,9.20087506 L9.45188296,9.39594661 L9.439,9.395 L9.439,13.705 L12,13.7058824 C12.371786,13.7058824 12.7198781,13.8073276 13.0181062,13.9840479 L12.892437,13.7695497 L17.1244768,9.12736638 C16.9104635,8.16751725 16.3594646,7.68759268 15.4714802,7.68759268 Z" id="形状结合"></path>
+                </g>
+                <g id="矩形">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd" x="3.5" y="13.5" width="15" height="8" rx="2"></rect>
+                </g>
+                <rect id="矩形备份-10" fill="#FFFFFF" transform="translate(10.500000, 16.000000) rotate(-270.000000) translate(-10.500000, -16.000000) " x="9.5" y="11.5" width="2" height="9" rx="1"></rect>
+                <rect id="矩形备份-13" fill="#FFFFFF" transform="translate(9.000000, 19.000000) rotate(-270.000000) translate(-9.000000, -19.000000) " x="8" y="16" width="2" height="6" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

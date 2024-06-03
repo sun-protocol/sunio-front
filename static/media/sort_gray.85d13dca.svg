@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="18px" height="18px" viewBox="0 0 18 18" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>排序 降</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="浅色-弹窗" transform="translate(-381.000000, -206.000000)" stroke="#ffffff">
+            <g id="编组-12备份" transform="translate(20.000000, 19.000000)">
+                <g id="编组-8" transform="translate(361.000000, 187.000000)">
+                    <polyline id="路径" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                        points="16 11 13 13 13 4"></polyline>
+                    <rect id="矩形" fill="#333333" x="1.5" y="3.5" width="8" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份" fill="#333333" x="1.5" y="8.5" width="8" height="1" rx="0.5"></rect>
+                    <rect id="矩形备份-2" fill="#333333" x="1.5" y="13.5" width="8" height="1" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

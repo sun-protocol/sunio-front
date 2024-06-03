@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="31px" height="31px" viewBox="0 0 31 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>sunswap</title>
+    <defs>
+        <linearGradient x1="-2.68882139e-15%" y1="50%" x2="100%" y2="50%" id="linearGradient-1">
+            <stop stop-color="#4504FE" offset="0%"></stop>
+            <stop stop-color="#E64DFF" offset="100%"></stop>
+        </linearGradient>
+        <filter x="-107.1%" y="-107.1%" width="314.3%" height="314.3%" filterUnits="objectBoundingBox" id="filter-2">
+            <feGaussianBlur stdDeviation="5" in="SourceGraphic"></feGaussianBlur>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="M-更多-浅色" transform="translate(-97.000000, -793.000000)">
+            <g id="编组-12备份" transform="translate(0.000000, 792.000000)">
+                <g id="编组-15" transform="translate(97.000000, 1.000000)">
+                    <circle id="椭圆形" fill="url(#linearGradient-1)" opacity="0.699999988" filter="url(#filter-2)" cx="16" cy="16" r="7"></circle>
+                    <g id="编组-13" transform="translate(5.000000, 6.000000)" stroke="#722FFF" stroke-width="2">
+                        <circle id="椭圆形" cx="10.5" cy="10.5" r="9.5"></circle>
+                        <g id="编组-11" transform="translate(4.200000, 4.000000)" stroke-linecap="round">
+                            <path d="M4.65196013,2.46852417 L5.78757427,3.60413832 L6.30922134,3.08249125 C6.69974564,2.69196695 7.33291062,2.69196695 7.72343491,3.08249125 C7.91097129,3.27002763 8.01632813,3.52438154 8.01632813,3.78959803 L8.01632813,7.01632813 C8.01632813,7.56861288 7.56861288,8.01632813 7.01632813,8.01632813 L3.78959803,8.01632813 C3.23731328,8.01632813 2.78959803,7.56861288 2.78959803,7.01632813 C2.78959803,6.75111164 2.89495487,6.49675772 3.08249125,6.30922134 L3.58599664,5.80571595 L3.58599664,5.80571595 L1.74327571,3.96299502" id="路径" transform="translate(4.695856, 4.695856) rotate(-135.000000) translate(-4.695856, -4.695856) "></path>
+                            <path d="M7.77083245,6.07681158 L8.9064466,7.21242573 L9.42809367,6.69077866 C9.81861796,6.30025436 10.4517829,6.30025436 10.8423072,6.69077866 C11.0298436,6.87831503 11.1352005,7.13266895 11.1352005,7.39788544 L11.1352005,10.6246155 C11.1352005,11.1769003 10.6874852,11.6246155 10.1352005,11.6246155 L6.90847036,11.6246155 C6.35618561,11.6246155 5.90847036,11.1769003 5.90847036,10.6246155 C5.90847036,10.359399 6.0138272,10.1050451 6.20136357,9.91750875 L6.70486896,9.41400336 L6.70486896,9.41400336 L4.86214804,7.57128243" id="路径备份-2" transform="translate(7.814729, 8.304144) rotate(-315.000000) translate(-7.814729, -8.304144) "></path>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

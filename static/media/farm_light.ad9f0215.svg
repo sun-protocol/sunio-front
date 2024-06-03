@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="31px" viewBox="0 0 32 31" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>矿池 n</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" opacity="0.5">
+        <g id="M-更多-浅色" transform="translate(-247.000000, -841.000000)" stroke="#333333">
+            <g id="编组-12" transform="translate(0.000000, 840.000000)">
+                <g id="编组-9" transform="translate(247.500000, 1.000000)">
+                    <path d="M19.5,5 C20.6045695,5 21.5,5.8954305 21.5,7 C21.5,8.1045695 20.6045695,9 19.5,9 L17.5,9 L17.5,12 L19.5,12 C21.1568542,12 22.5,13.3431458 22.5,15 L22.5,18.5 C22.5,22.0898509 19.5898509,25 16,25 L15,25 C11.4101491,25 8.5,22.0898509 8.5,18.5 L8.5,15 C8.5,13.3431458 9.84314575,12 11.5,12 L13.5,12 L13.5,8.999 L11.5,9 C10.3954305,9 9.5,8.1045695 9.5,7 C9.5,5.8954305 10.3954305,5 11.5,5 L19.5,5 Z" id="形状结合" stroke-width="2" stroke-linejoin="round"></path>
+                    <rect id="矩形" x="15" y="15.5" width="1" height="6" rx="0.5"></rect>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

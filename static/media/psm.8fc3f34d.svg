@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>PSM</title>
+    <defs>
+        <circle id="path-1" cx="12" cy="12" r="10"></circle>
+        <filter x="-22.5%" y="-22.5%" width="135.0%" height="135.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="-1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多" transform="translate(-39.000000, -310.000000)">
+            <g id="编组-8" transform="translate(39.000000, 310.000000)">
+                <circle id="椭圆形" fill="#8B5AEA" cx="8.5" cy="8.5" r="8.5"></circle>
+                <g id="椭圆形备份-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <circle stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd" cx="12" cy="12" r="9.5"></circle>
+                </g>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" points="14 8 16 10 8 10"></polyline>
+                <polyline id="路径备份" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(12.000000, 15.000000) rotate(-180.000000) translate(-12.000000, -15.000000) " points="14 14 16 16 8 16"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>计算</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="浅色-治理挖矿-第二阶段" transform="translate(-1356.000000, -770.000000)" stroke="#333333">
+            <g id="编组-8" transform="translate(400.000000, 736.000000)">
+                <g id="计算" transform="translate(956.000000, 34.000000)">
+                    <circle id="椭圆形" stroke-opacity="0.197251967" cx="14" cy="14" r="13.5"></circle>
+                    <rect id="矩形" stroke-width="1.5" x="7.75" y="6.75" width="12.5" height="14.5" rx="2"></rect>
+                    <rect id="矩形" stroke-width="1.5" x="10.25" y="9.25" width="7.5" height="2.5" rx="1"></rect>
+                    <line x1="10.5" y1="15" x2="13" y2="15" id="路径" stroke-width="1.5" stroke-linecap="round"></line>
+                    <line x1="16" y1="15" x2="17.5" y2="15" id="路径" stroke-width="1.5" stroke-linecap="round"></line>
+                    <line x1="10.5" y1="18" x2="13" y2="18" id="路径" stroke-width="1.5" stroke-linecap="round"></line>
+                    <line x1="16" y1="18" x2="17.5" y2="18" id="路径" stroke-width="1.5" stroke-linecap="round"></line>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

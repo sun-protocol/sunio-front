@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>白皮书</title>
+    <defs>
+        <rect id="path-1" x="4" y="0" width="18" height="22" rx="2"></rect>
+        <filter x="-25.0%" y="-15.9%" width="138.9%" height="131.8%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="-1" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多" transform="translate(-39.000000, -429.000000)">
+            <g id="编组-7备份-2" transform="translate(39.000000, 429.000000)">
+                <rect id="矩形" fill="#8B5AEA" transform="translate(9.500000, 14.000000) rotate(-360.000000) translate(-9.500000, -14.000000) " x="0" y="6" width="19" height="16" rx="2"></rect>
+                <g id="矩形备份-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd" x="4.5" y="0.5" width="17" height="21" rx="2"></rect>
+                </g>
+                <rect id="矩形备份-10" fill="#FFFFFF" transform="translate(13.000000, 6.000000) rotate(-270.000000) translate(-13.000000, -6.000000) " x="12" y="-3.41060513e-13" width="2" height="12" rx="1"></rect>
+                <rect id="矩形备份-13" fill="#FFFFFF" transform="translate(11.000000, 11.000000) rotate(-270.000000) translate(-11.000000, -11.000000) " x="10" y="7" width="2" height="8" rx="1"></rect>
+                <rect id="矩形备份-14" fill="#FFFFFF" transform="translate(12.000000, 16.000000) rotate(-270.000000) translate(-12.000000, -16.000000) " x="11" y="11" width="2" height="10" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="28px" height="28px" viewBox="0 0 28 28" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>复制</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="浅色-弹窗" transform="translate(-1836.000000, -2079.000000)" stroke="#333333">
+            <g id="编组-9备份-18" transform="translate(1456.000000, 1958.000000)">
+                <g id="编组-15备份" transform="translate(20.000000, 80.000000)">
+                    <g id="复制" transform="translate(360.000000, 41.000000)">
+                        <circle id="椭圆形" stroke-opacity="0.2" cx="14" cy="14" r="13.5"></circle>
+                        <rect id="矩形" stroke-width="1.5" x="7" y="11" width="10" height="10" rx="2"></rect>
+                        <path d="M11,10.5176328 L11,10.5176328 L11,9 C11,7.8954305 11.8954305,7 13,7 L19,7 C20.1045695,7 21,7.8954305 21,9 L21,15 C21,16.1045695 20.1045695,17 19,17 L17.3481165,17 L17.3481165,17" id="路径" stroke-width="1.5"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

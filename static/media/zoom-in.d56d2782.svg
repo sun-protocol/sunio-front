@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 22</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="V3曲线图-添加流动性-全状态" transform="translate(-1446.000000, -597.000000)">
+            <g id="编组-20" transform="translate(1000.000000, 574.000000)">
+                <g id="编组-22" transform="translate(446.000000, 23.000000)">
+                    <circle id="椭圆形" fill="#4E4867" cx="16" cy="16" r="16"></circle>
+                    <circle id="椭圆形" stroke="#FFFFFF" stroke-width="2" cx="16" cy="16" r="7"></circle>
+                    <rect id="矩形" fill="#FFFFFF" transform="translate(22.000000, 22.500000) rotate(-45.000000) translate(-22.000000, -22.500000) " x="21" y="20" width="2" height="5" rx="1"></rect>
+                    <path d="M16,12 C16.5522847,12 17,12.4477153 17,13 L17,15 L19,15 C19.5522847,15 20,15.4477153 20,16 C20,16.5522847 19.5522847,17 19,17 L17,17 L17,19 C17,19.5522847 16.5522847,20 16,20 C15.4477153,20 15,19.5522847 15,19 L15,17 L13,17 C12.4477153,17 12,16.5522847 12,16 C12,15.4477153 12.4477153,15 13,15 L15,15 L15,13 C15,12.4477153 15.4477153,12 16,12 Z" id="形状结合" fill="#FFFFFF"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

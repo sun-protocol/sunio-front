@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="64px" viewBox="0 0 64 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>new</title>
+    <defs>
+        <linearGradient x1="42.077412%" y1="4.58200165%" x2="45.4292045%" y2="85.7756411%" id="linearGradient-1">
+            <stop stop-color="#FFA12C" offset="0%"></stop>
+            <stop stop-color="#FF793E" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-357.000000, -1142.000000)">
+            <g id="推荐池子" transform="translate(357.000000, 1005.000000)">
+                <g id="new" transform="translate(0.000000, 137.000000)">
+                    <rect id="矩形" fill="#CB3D00" x="60.5487272" y="0" width="3" height="3"></rect>
+                    <rect id="矩形备份-5" fill="#CB3D00" x="0" y="59.5477272" width="3" height="4"></rect>
+                    <path d="M63.496,0 L0,63.496 L0,35.211 L35.211,0 L63.496,0 Z" id="形状结合" fill="url(#linearGradient-1)"></path>
+                    <g id="NEW" transform="translate(24.145000, 24.660000) rotate(-45.000000) translate(-24.145000, -24.660000) translate(6.080000, 19.320000)" fill="#FFFFFF" fill-rule="nonzero">
+                        <polygon id="路径" points="8.34 10.68 8.34 0 5.715 0 5.715 5.37 2.295 0 0 0 0 10.68 2.625 10.68 2.625 5.31 6.045 10.68"></polygon>
+                        <polygon id="路径" points="19.76 10.68 19.76 8.34 15.125 8.34 15.125 6.465 19.085 6.465 19.085 4.125 15.125 4.125 15.125 2.34 19.76 2.34 19.76 0 12.5 0 12.5 10.68"></polygon>
+                        <polygon id="路径" points="36.13 0 33.385 0 31.99 5.64 30.265 0 28.405 0 26.68 5.64 25.285 0 22.54 0 25.48 10.68 27.61 10.68 29.335 5.415 31.06 10.68 33.205 10.68"></polygon>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

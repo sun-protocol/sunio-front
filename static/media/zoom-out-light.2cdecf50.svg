@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="32px" height="32px" viewBox="0 0 32 32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>编组 22备份</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="浅色-V3曲线图-添加流动性-全状态" transform="translate(-1488.000000, -597.000000)">
+            <g id="编组-20" transform="translate(1000.000000, 574.000000)">
+                <g id="编组-22备份" transform="translate(488.000000, 23.000000)">
+                    <circle id="椭圆形" stroke-opacity="0.2" stroke="#333333" cx="16" cy="16" r="15.5"></circle>
+                    <g id="编组-9" transform="translate(8.000000, 8.000000)">
+                        <circle id="椭圆形" stroke="#333333" stroke-width="2" cx="8" cy="8" r="7"></circle>
+                        <rect id="矩形" fill="#333333" transform="translate(14.000000, 14.500000) rotate(-45.000000) translate(-14.000000, -14.500000) " x="13" y="12" width="2" height="5" rx="1"></rect>
+                        <rect id="矩形备份-3" fill="#333333" x="4" y="7" width="8" height="2" rx="1"></rect>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

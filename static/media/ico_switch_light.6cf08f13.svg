@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>purple-switch.89cdd2a4</title>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="首页" transform="translate(-604.000000, -548.000000)" stroke="#333333">
+            <g id="兑换" transform="translate(360.000000, 152.000000)">
+                <g id="编组-4" transform="translate(30.000000, 396.000000)">
+                    <g id="purple-switch.89cdd2a4" transform="translate(214.000000, 0.000000)">
+                        <path
+                            d="M11,0.5 C13.8995159,0.5 16.5245109,1.6752458 18.4246293,3.57536425 C20.3247565,5.47549138 21.5,8.10049711 21.5,11 C21.5,13.8995225 20.3247625,16.5245232 18.4246429,18.4246429 C16.5245232,20.3247625 13.8995225,21.5 11,21.5 C8.10049711,21.5 5.47549138,20.3247565 3.57536425,18.4246293 C1.6752458,16.5245109 0.5,13.8995159 0.5,11 C0.5,8.10050375 1.67525182,5.47550372 3.57537777,3.57537777 C5.47550372,1.67525182 8.10050375,0.5 11,0.5 Z"
+                            id="路径" stroke-opacity="0.0966540783"></path>
+                        <polyline id="路径" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                            points="16 9 6 9 10.1071429 6"></polyline>
+                        <polyline id="路径备份" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"
+                            transform="translate(11.000000, 14.500000) rotate(-180.000000) translate(-11.000000, -14.500000) "
+                            points="16 16 6 16 10.1071429 13"></polyline>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

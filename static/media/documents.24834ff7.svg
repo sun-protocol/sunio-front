@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="22px" height="22px" viewBox="0 0 22 22" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>开发者</title>
+    <defs>
+        <rect id="path-1" x="0" y="1" width="22" height="16" rx="2"></rect>
+        <filter x="-18.2%" y="-12.5%" width="136.4%" height="150.0%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="1" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feComposite in="shadowBlurOuter1" in2="SourceAlpha" operator="out" result="shadowBlurOuter1"></feComposite>
+            <feColorMatrix values="0 0 0 0 0.118805823   0 0 0 0 0.118805823   0 0 0 0 0.162279212  0 0 0 0.197392817 0" type="matrix" in="shadowBlurOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="更多" transform="translate(-39.000000, -361.000000)">
+            <g id="编组-7备份" transform="translate(39.000000, 361.000000)">
+                <rect id="矩形" fill="#8B5AEA" x="3" y="7" width="16" height="14" rx="2"></rect>
+                <g id="矩形备份-3">
+                    <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                    <rect stroke-opacity="0.295454545" stroke="#FFFFFF" stroke-width="1" stroke-linejoin="square" fill-opacity="0.3" fill="#8B5AEA" fill-rule="evenodd" x="0.5" y="1.5" width="21" height="15" rx="2"></rect>
+                </g>
+                <polyline id="路径" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(5.707107, 9.171573) rotate(-315.000000) translate(-5.707107, -9.171573) " points="7.20710678 10.6715729 4.20710678 10.6715729 4.20710678 7.67157288"></polyline>
+                <polyline id="路径备份-3" stroke="#FFFFFF" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="translate(16.707107, 9.171573) rotate(-135.000000) translate(-16.707107, -9.171573) " points="18.2071068 10.6715729 15.2071068 10.6715729 15.2071068 7.67157288"></polyline>
+                <rect id="矩形" fill="#FFFFFF" transform="translate(11.000000, 9.000000) rotate(-345.000000) translate(-11.000000, -9.000000) " x="10" y="5" width="2" height="8" rx="1"></rect>
+            </g>
+        </g>
+    </g>
+</svg>
