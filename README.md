@@ -25,9 +25,6 @@ SUN.io is an integrated DeFi platform built on the [TRON](https://tron.network/)
 | Blockchain | TronWeb 6, @tronweb3/tronwallet-adapters |
 | Charts | D3.js, ECharts, Recharts |
 
-## BTFS
-[SUN](https://sun.on.btfs.io/#/home)
-
 ## Deployment
 
 This repository contains pre-built static files ready to be served by any web server.
