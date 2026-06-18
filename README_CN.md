@@ -76,7 +76,6 @@ SUN.io 支持三种语言：
 ## 相关链接
 
 - 官网：[https://sun.io](https://sun.io)
-- btfs: [SUN](https://sun.on.btfs.io/#/home)
 - 论坛：[https://forum.sun.io/](https://forum.sun.io/)
 - 文档：[https://docs.sun.io](https://docs.sun.io)
 - Twitter：[https://x.com/OfficialSUNio](https://x.com/OfficialSUNio)

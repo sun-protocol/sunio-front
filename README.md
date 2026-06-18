@@ -79,7 +79,6 @@ If you discover a security vulnerability, please report it responsibly. Do **not
 ## Links
 
 - Website: [https://sun.io](https://sun.io)
-- btfs: [SUN](https://sun.on.btfs.io/#/home)
 - forum：[https://forum.sun.io/](https://forum.sun.io/)
 - Documentation：[https://docs.sun.io](https://docs.sun.io)
 - Twitter：[https://x.com/OfficialSUNio](https://x.com/OfficialSUNio)
