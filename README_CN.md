@@ -50,14 +50,14 @@ server {
 
 ## 支持的钱包
 
-- [TronLink](https://www.tronlink.org/)
-- [TokenPocket](https://www.tokenpocket.pro/)
-- [BitKeep (Bitget Wallet)](https://web3.bitget.com/)
-- [OKX Wallet](https://www.okx.com/web3)
-- [Ledger](https://www.ledger.com/)
-- [imToken](https://token.im/)
+- [TronLink](https://www.tronlink.org)
 - [Binance Wallet](https://www.binance.com/en/web3wallet)
-- [WalletConnect](https://walletconnect.com/)
+- [MetaMask](https://metamask.io)
+- [WalletConnect](https://walletconnect.com)
+- [BitKeep (Bitget Wallet)](https://web3.bitget.com/)
+- [OKX Wallet](https://web3.okx.com)
+- [TokenPocket](https://www.tokenpocket.pro)
+- [Ledger](https://www.ledger.com)
 
 ## 国际化
 
